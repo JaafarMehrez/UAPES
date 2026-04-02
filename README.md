@@ -54,9 +54,9 @@ results = sampler.run()
 6. **Update**: Add new data to training set
 7. **Repeat**: Iterate until convergence
 
-The bias potential: **V(s) = α × σ(s)**
+The bias potential: **V(s) = alpha x sigma(s)**
 
-Where σ(s) is the predictive uncertainty of the committor at collective variable s.
+Where sigma(s) is the predictive uncertainty of the committor at collective variable s.
 
 ## Example: Müller-Brown Potential
 
